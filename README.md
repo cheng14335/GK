@@ -599,7 +599,20 @@ DOMAIN-SUFFIX,wep016.top
 DOMAIN-SUFFIX,win-stock.com.cn
 DOMAIN-SUFFIX,zantainet.com
 DOMAIN-SUFFIX,dh54wf.xyz
-DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,app2.yfhomeffzwei.com
+DOMAIN-SUFFIX,yui8ww.yhse11.com
+DOMAIN-SUFFIX,ywgbpg.yhse14.com
+DOMAIN-SUFFIX,wlrgty.yhse14.com
+DOMAIN-SUFFIX,h5.kmaa41.com
+DOMAIN-SUFFIX,xnklgas.cn
+DOMAIN-SUFFIX,hymbcrmkr5.eosean.com
+DOMAIN-SUFFIX,abcd.xnqncs.com
+DOMAIN-SUFFIX,tsv.fengshen163.com
+DOMAIN-SUFFIX,tcl.qkpdla.com
+DOMAIN-SUFFIX,img2.jiazijun.com
+DOMAIN-SUFFIX,g2q3e.cn
+DOMAIN-SUFFIX,g2q3e.cn
+DOMAIN-SUFFIX,g2q3e.cn
 DOMAIN-SUFFIX,g2q3e.cn
 DOMAIN-SUFFIX,g2q3e.cn
 
