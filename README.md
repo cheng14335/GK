@@ -598,8 +598,9 @@ DOMAIN-SUFFIX,wanfeng1.com
 DOMAIN-SUFFIX,wep016.top
 DOMAIN-SUFFIX,win-stock.com.cn
 DOMAIN-SUFFIX,zantainet.com
-
 DOMAIN-SUFFIX,dh54wf.xyz
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,g2q3e.cn
 DOMAIN-SUFFIX,g2q3e.cn
 
 # 运营商广告****************
