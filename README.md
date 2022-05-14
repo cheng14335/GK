@@ -610,8 +610,8 @@ DOMAIN-SUFFIX,abcd.xnqncs.com
 DOMAIN-SUFFIX,tsv.fengshen163.com
 DOMAIN-SUFFIX,tcl.qkpdla.com
 DOMAIN-SUFFIX,img2.jiazijun.com
-DOMAIN-SUFFIX,g2q3e.cn
-DOMAIN-SUFFIX,g2q3e.cn
+DOMAIN-SUFFIX,h5.hxcpp110.com
+DOMAIN-SUFFIX,cv01k.triolk.cn
 DOMAIN-SUFFIX,g2q3e.cn
 DOMAIN-SUFFIX,g2q3e.cn
 DOMAIN-SUFFIX,g2q3e.cn
